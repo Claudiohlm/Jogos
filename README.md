@@ -32,13 +32,7 @@ f5
 
 <img src="Imagens/Introdução.png" alt="Jogos-RPG" align="center" width="300">
 
-## Autora
 
-Ana Júllia de Lima Aguiar leite
-
-<a href="https://www.linkedin.com/in/anajulialimaleite/" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%231C003F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
 ## License
 
